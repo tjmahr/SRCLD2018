@@ -1,14 +1,14 @@
 SRCLD2018
 ========================================================================
 
-[![A thumbnail version of the
-poster](poster/Mahr-SRCLD2018-thumbnail.png)](poster/)
-
 The repository contains my poster from SRCLD 2018.
 
 > Mahr, T., & Edwards, J. R. (2018, June). *Development of familiar word
 > recognition in preschoolers*. Poster session presented at the annual
 > Symposium on Research in Child Language Disorders, Madison, WI.
+
+[![A thumbnail version of the
+poster](poster/Mahr-SRCLD2018-thumbnail.png)](poster/)
 
 
 Overview
